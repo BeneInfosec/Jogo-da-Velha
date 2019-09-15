@@ -1,0 +1,18 @@
+h1{
+  text-align: center;
+  color:#cf0;
+  text-shadow: 0.1em 0.1em 0.15em;
+}
+body{
+  background-image:url(12.png);
+  background-repeat:repeat;
+}
+table{
+  width: 330px;
+  height: 330px;
+  background-color: black;
+
+}
+input{
+    margin-left: 41.5%;
+}
